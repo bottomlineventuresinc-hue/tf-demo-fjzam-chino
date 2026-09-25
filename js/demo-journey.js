@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential plumbing and water conditioning across Chino and the Inland Empire. Francis looks at the job and puts the price in writing first.';
+            'Residential plumbing and water conditioning in Chino. Francis looks at the job and puts the price in writing first.';
         }
       }
     },
