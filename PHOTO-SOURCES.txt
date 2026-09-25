@@ -1,0 +1,21 @@
+PHOTO SOURCES · hs-054-fjzam F J Zam Company (Wave 11 2026-09-25 PT)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit. No face is used or captioned as the owner.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave11/faucet-glass-water.jpg : glass filling at a kitchen faucet, hand only (Flickr CC0 51487313271)
+services-trade.jpg <- wave11/kitchen-faucet-chrome.jpg : chrome pull-down kitchen faucet (StockSnap CC0 XVEZZZGCXA)
+people-crew.jpg <- wave11/tools-ratchet.jpg : ratchet sockets close-up (StockSnap CC0 4RHOB6RC3S)
+people-marek.jpg <- wave11/bath-sink-wall.jpg : wall-mounted bathroom sink (WordPress Photos CC0 251622a36c)
+people-tom.jpg <- wave11/shower-valve-tile.jpg : tiled shower with valve and hand shower (rawpixel CC0 5902607)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+plumb-iron-fittings.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+copper-valves-filter.jpg <- wave11/copper-valves-filter.jpg : copper supply lines with red ball valves and a filter housing (rawpixel CC0 6041215)
+tools-wrenches-wood.jpg <- wave11/tools-wrenches-wood.jpg : wrenches on a wood bench (Flickr CC0 32708495171)
+kitchen-sink-steel.jpg <- wave11/kitchen-sink-steel.jpg : stainless double kitchen sink and faucet (rawpixel CC0 5907815)
+plumb-under-sink-hands.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+
+Rejected from prior library (not used): wave7 wh-* files (plasterer / painter / window cleaner mislabeled as water heaters),
+wave2/wave5 yellow-hat electrician portraits (stock face), crew photos with faces, wave2 elec-breaker-hand (sanding, not electrical).
+Note: Trade confirmed from packet: plumbing + water conditioning. Kal Marcus Zam also listed on the license; site names Francis per packet sole-owner line.
